@@ -3,6 +3,11 @@ node_modules/
 .pnp
 .pnp.js
 
+# Cache directories
+caches/
+.metro-cache/
+apps/mobile/caches/
+
 # Build outputs
 dist/
 build/
